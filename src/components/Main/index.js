@@ -4,7 +4,7 @@ import Form from '../Form'
 
 export default function Title(){
     return(
-        <View>
+        <View >
             <Form />
         </View>
     );

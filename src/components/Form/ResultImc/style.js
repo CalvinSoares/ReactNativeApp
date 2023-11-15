@@ -2,21 +2,23 @@ import { StyleSheet } from 'react-native'
 
 const styles = StyleSheet.create({
     resultImc: {
-        flex: 1,
+        flex: 2,
         marginTop: 15,
         paddingTop: 60,
         borderRadius: 50,
         alignItems: 'center',
+        textAlign: 'center',
         width: '100%',
+        justifyContent: 'center'
     },
     numberImc: {
         fontSize: 48,
-        color: '#ff0043',
+        color: 'black',
         fontWeight: 'bold',
     },
     information: {
         fontSize: 18,
-        color: '#ff0043',
+        color: 'black',
         fontWeight: 'bold',
     },
     boxSharebutton: {
@@ -29,6 +31,7 @@ const styles = StyleSheet.create({
         borderRadius: 50,
         paddingTop: 5,
         paddingBottom: 5,
+        top: 20
     },
     sharedText: {
         color: '#fff',
