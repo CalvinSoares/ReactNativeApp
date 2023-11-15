@@ -17,7 +17,7 @@ aplicativo mobile que calculo seu IMC
 
 * **REACT NATIVE**
 * **JAVASCRIPT**
-* 
+
 ## 🔧 Como Executar o projeto
 
 ```
@@ -26,7 +26,6 @@ git clone https://github.com/CalvinSoares/ReactNativeApp.git
 
 # Entre no diretório
 cd MyProject
-
 ```
 Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o projeto.
 
