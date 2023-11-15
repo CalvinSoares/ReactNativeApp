@@ -4,9 +4,9 @@ aplicativo mobile que calculo seu IMC
 
 ## Seções
 
-* Home: breve apresentação pessoal com botão para mais informações.
+* Home: Tela de calculo, a pessoa escreve sua altura e seu peso.
 
-* Resultado: informações adicionais como minhas redes sociais e tecnologias que utilizei para criação do card.
+* Resultado: Tela de resultado do calculo
 
 ## Demonstração 
 
